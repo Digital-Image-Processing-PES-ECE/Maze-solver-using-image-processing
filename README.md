@@ -56,5 +56,6 @@ where small robots can be used to rescue.
 3. -https://www.youtube.com/@Aryanverma2infoaryan
   
 ### Limitations and Future Work:
+The algorithm assumes the input maze is a clear binary image.Complex or noisy images with gradients or colors may require significant preprocessing and may still produce inaccurate results.
 This program cannot solve mazes other than square or a rectangular type mazes.
 In future work we can implement the code with a physical working robot.
