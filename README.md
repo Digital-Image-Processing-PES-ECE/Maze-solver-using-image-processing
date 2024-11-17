@@ -33,9 +33,10 @@ where small robots can be used to rescue.
 ```python Maze_solver.py```
 
 ### Outputs:
-* Thresholding
-* grayscaling
-* contour detection
+* Thresholding![image](https://github.com/user-attachments/assets/bc3e9be8-43fd-4055-9075-99ea126d7106)
+* contour detection![image](https://github.com/user-attachments/assets/2d1699f9-1667-4094-9cfd-8b85ef395337)
+![image](https://github.com/user-attachments/assets/35f243dc-d0c3-4950-90cd-3db24b2987bc)
+
 * dilation
 * erosion
 * masking
